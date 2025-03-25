@@ -1,0 +1,10 @@
+[package]
+name = "feedparser"
+version = "0.1.0"
+edition = "2024"
+description = "A simple tool to parse RSS"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+quick-xml = "0.37.2"
+serde_json = "1.0.140"
