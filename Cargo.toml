@@ -1,8 +1,9 @@
 [package]
 name = "feedparser"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A simple tool to parse RSS"
+repository = "https://github.com/lhz07/feedparser"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
